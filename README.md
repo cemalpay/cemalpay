@@ -4,7 +4,7 @@ const info = {
   company: "common.studio"
 };
 
-let position = "Jr. Web Developer"; 
+let position = "Frontend Developer"; 
 
 let knowledge = {
   code: ["HTML", "CSS", "JavaScript","React", "Next.js"],
