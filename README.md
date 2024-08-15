@@ -1,6 +1,7 @@
 ```javascript
 const info = {
-  name: "Cem Alpay",};
+  name: "Cem Alpay"
+};
 
 let position = "Frontend Developer"; 
 
