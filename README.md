@@ -1,5 +1,5 @@
 ```javascript
-just coding
+just kod yazmak yapmıyor
 
 ```
 
